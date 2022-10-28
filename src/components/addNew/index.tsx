@@ -26,7 +26,7 @@ const AddNew: React.FC<IAddNew> = ({ data, setData }) => {
     localStorage.setItem("data", JSON.stringify(data));
   };
   return (
-    <div className="mainDiv">
+    <div id="mainDiv">
       <h1>Add new</h1>
       <div className="childDiv">
         <p>Question</p>

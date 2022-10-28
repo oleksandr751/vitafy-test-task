@@ -9,6 +9,7 @@
 .arrowRight {
   width: 0px;
   height: 0px;
+  margin-right: 10px;
   border-top: 6px solid transparent;
   border-bottom: 6px solid transparent;
   border-left: 6px solid black;
@@ -16,6 +17,7 @@
 .arrowDown {
   width: 0px;
   height: 0px;
+  margin-right: 10px;
   border-left: 6px solid transparent;
   border-right: 6px solid transparent;
   border-top: 6px solid black;

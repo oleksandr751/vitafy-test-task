@@ -1,12 +1,16 @@
-.mainDiv {
+#mainDiv {
   display: flex;
   flex-direction: column;
-  width: 500px;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
 }
 .childDiv {
   display: flex;
   flex-direction: row;
   align-items: center;
+  width: 100%;
+  justify-content: space-around;
 }
 #addButton {
   width: 50px;
