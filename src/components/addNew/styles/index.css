@@ -1,0 +1,13 @@
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+.childDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+#addButton {
+  width: 50px;
+}
