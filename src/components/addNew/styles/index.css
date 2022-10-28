@@ -10,7 +10,7 @@
   flex-direction: row;
   align-items: center;
   width: 100%;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 #addButton {
   width: 50px;
